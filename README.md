@@ -4,6 +4,7 @@ A simple API for retrieving information about Pokémon. This project is written 
 
 ## Features
 - Retrieve Pokémon details
+- Sprites
 - List all available Pokémon
 - Search for Pokémon by name or type
 
